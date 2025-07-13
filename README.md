@@ -19,7 +19,7 @@ The report begins by introducing the context of differential equations and the n
 
 ## 📄 Full Report (PDF)
 
-👉 [Download the full report](./Runge_Kutta_Methods_Report.pdf)
+👉 [Download the full report](Numerical-Resolution-of-Differential-Equations-using-Runge-Kutta-Methods/RUNGE_KUTTA_Method.pdf)
 
 ## 👩‍💻 Author
 
