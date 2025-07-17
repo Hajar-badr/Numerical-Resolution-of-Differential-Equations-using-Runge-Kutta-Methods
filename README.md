@@ -4,7 +4,7 @@ This report provides a detailed examination of **Runge-Kutta methods**, which ar
 
 The report begins by introducing the context of differential equations and the need for numerical approaches to solve them. It then explores the fundamental principles behind Runge-Kutta methods, emphasizing their **stability**, **consistency**, and **order of accuracy**.
 
-## 📌 Topics Covered
+##  Topics Covered
 
 - Introduction to differential equations  
 - Need for numerical methods  
@@ -13,7 +13,7 @@ The report begins by introducing the context of differential equations and the n
 - Concepts of **stability**, **consistency**, and **convergence**  
 - Practical applications and examples  
 
-## 🔑 Keywords
+##  Keywords
 
 `Runge-Kutta methods`, `explicit Runge-Kutta`, `implicit Runge-Kutta`, `RK2`, `RK4`, `stability`, `consistency`, `convergence`, `order`.
 
@@ -21,7 +21,7 @@ The report begins by introducing the context of differential equations and the n
 
 👉 [Download the full report](./RUNGE_KUTTA_Method.pdf)
 
-## 👩‍💻 Author
+##  Author
 
 Hajar Badraoui  
 [GitHub Profile](https://github.com/Hajar-badr)
